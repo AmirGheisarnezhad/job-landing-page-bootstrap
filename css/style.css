@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+body,
+html {
+  height: 100%;
+}
+body{
+  font-family: "Roboto", sans-serif;
+}
+.navbar-nav .nav-item:hover{
+    background-color: bisque;
+}
+main {
+  background-color: rgb(222, 228, 233);
+}
+.hero {
+  background-image: url(../materiale/img/carousel-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero-content {
+  height: 80vh;
+}
+.hero-search {
+  background-color: green;
+}
+
+.blu {
+  background-color: hwb(196 5% 13%);
+}
+.green {
+  background-color: green;
+}
+
+.categorie {
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  
+}
+.categorie h1 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  
+}
+footer{
+    text-align: center;
+} 
