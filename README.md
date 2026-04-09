@@ -4,7 +4,7 @@ Questo progetto è una landing page responsive sviluppata con Bootstrap 5.
 
 ## 🚀 Demo
 
-👉 https://amirgheisamnezhad.github.io/job-landing-page-bootstrap/
+👉 https://amirgheisarnezhad.github.io/job-landing-page-bootstrap/
 
 ## 🛠️ Tecnologie utilizzate
 
